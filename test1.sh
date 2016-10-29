@@ -1,3 +1,4 @@
 #!/bin/bash
 date
-ls > ashok
+ls
+cal
